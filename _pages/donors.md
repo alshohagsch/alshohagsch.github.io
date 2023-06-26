@@ -4,7 +4,7 @@ title: "Our Donors"
 layout: single
 ---
 
-## [HOME](https://www.home.org.sg/)
+## <a href='https://www.home.org.sg/' target='_blank'>HOME</a>
 
 <img src='/assets/images/home-logo.jpg' style='width:100%'>
 

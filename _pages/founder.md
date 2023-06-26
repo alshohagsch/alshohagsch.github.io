@@ -56,7 +56,7 @@ Once Rahman could talk, he displayed a positive attitude, which earned him the M
 
 *Rahman received the Most Inspirational Patient Award 2017*
 
-A social worker introduced him to a non-governmental organization called [HOME](https://www.home.org.sg/), which provided him with assistance and support. Rahman learned English and computer skills through their programs.
+A social worker introduced him to a non-governmental organization called <a href='https://www.home.org.sg/' target='_blank'>HOME</a>, which provided him with assistance and support. Rahman learned English and computer skills through their programs.
 
 <img src='/assets/images/rahman-computer.jpg'>
 
