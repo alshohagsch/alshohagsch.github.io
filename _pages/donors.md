@@ -1,5 +1,5 @@
 ---
-permalink: /Donors/
+permalink: /donors/
 title: "Our Donors"
 layout: single
 ---
