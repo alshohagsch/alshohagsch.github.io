@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Updates"
+    url: /updates/
+  - title: "About the School"
+    url: /about/
+  - title: "School Events"
+    url: /events/
+  - title: "How it started"
+    url: /origins/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Our Donors"
+    url: /donors/
+  - title: "About the Founder"
+    url: /founder/
