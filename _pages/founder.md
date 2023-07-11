@@ -79,4 +79,3 @@ Rahman's story has been featured in multiple news outlets:
 - <a href='https://mothership.sg/2022/06/rahman-explosion-al-shohag-school/' target='_blank'>**Mothership.sg** - *'I survived an explosion in S'pore that left me in a coma. Now, I run my own school.': Former migrant worker*</a>
 - <a href='https://mothership.sg/2020/01/bangladeshi-foreign-worker-story-singapore/' target='_blank'>**Mothership.sg** - *I came to S'pore from Bangladesh to work at age 20 & an explosion left me in a 3-month coma. Here's my story.*</a>
 - <a href='https://mothership.sg/2018/06/bangladeshi-worker-explosion-rahman/?ref=wethecitizens.net' target='_blank'>**Mothership.sg** - *'Bangladeshi worker in S'pore severely burnt in explosion after allegedly being forced to clean tank*</a>
-- <a href='https://saltandlight.sg/relationships/rahman-mohammad-ataur-migrant-worker-hope/' target='_blank'>**salt&light** - *Burnt and scarred, but this migrant worker embraces love and hope*</a>
